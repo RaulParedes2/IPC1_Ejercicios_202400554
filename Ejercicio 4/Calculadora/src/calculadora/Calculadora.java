@@ -52,7 +52,7 @@ public class Calculadora {
             }
             System.out.println();
         }
-        while(opcion !=7);
+        while(opcion !=7);  
         sc.close();
     }
     static void MostrarMenu (){
