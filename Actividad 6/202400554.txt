@@ -1,0 +1,1 @@
+La suma de 1 hasta 5 es: 15
